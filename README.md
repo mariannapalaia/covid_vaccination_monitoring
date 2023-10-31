@@ -27,7 +27,3 @@ To interact with the COVID Vaccination Monitoring Dashboard:
 ## Feedback and Contributions
 
 I welcome feedback, suggestions, and contributions from the community. If you have ideas for improving this project or want to collaborate, please don't hesitate to get in touch.
-
-Stay safe, and let's work together to monitor the global vaccination efforts against COVID-19.
-
-![COVID-19 Vaccination](covid-vaccination-image.png)
